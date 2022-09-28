@@ -1,0 +1,309 @@
+,Regiao,Cidades
+4,Norte,Arcos de Valdevez
+5,Norte,Caminha
+6,Norte,Melgaço
+7,Norte,Monção
+8,Norte,Paredes de Coura
+9,Norte,Ponte da Barca
+10,Norte,Ponte de Lima
+11,Norte,Valença
+12,Norte,Viana do Castelo
+13,Norte,Vila Nova de Cerveira
+15,Norte,Amares
+16,Norte,Barcelos
+17,Norte,Braga
+18,Norte,Esposende
+19,Norte,Terras de Bouro
+20,Norte,Vila Verde
+22,Norte,Cabeceiras de Basto
+23,Norte,Fafe
+24,Norte,Guimarães
+25,Norte,Mondim de Basto
+26,Norte,Póvoa de Lanhoso
+27,Norte,Vieira do Minho
+28,Norte,Vila Nova de Famalicão
+29,Norte,Vizela
+31,Norte,Arouca
+32,Norte,Espinho
+33,Norte,Gondomar
+34,Norte,Maia
+35,Norte,Matosinhos
+36,Norte,Oliveira de Azeméis
+37,Norte,Paredes
+38,Norte,Porto
+39,Norte,Póvoa de Varzim
+40,Norte,Santa Maria da Feira
+41,Norte,Santo Tirso
+42,Norte,São João da Madeira
+43,Norte,Trofa
+44,Norte,Vale de Cambra
+45,Norte,Valongo
+46,Norte,Vila do Conde
+47,Norte,Vila Nova de Gaia
+49,Norte,Boticas
+50,Norte,Chaves
+51,Norte,Montalegre
+52,Norte,Ribeira de Pena
+53,Norte,Valpaços
+54,Norte,Vila Pouca de Aguiar
+56,Norte,Amarante
+57,Norte,Baião
+58,Norte,Castelo de Paiva
+59,Norte,Celorico de Basto
+60,Norte,Cinfães
+61,Norte,Felgueiras
+62,Norte,Lousada
+63,Norte,Marco de Canaveses
+64,Norte,Paços de Ferreira
+65,Norte,Penafiel
+66,Norte,Resende
+68,Norte,Alijó
+69,Norte,Armamar
+70,Norte,Carrazeda de Ansiães
+71,Norte,Freixo de Espada à Cinta
+72,Norte,Lamego
+73,Norte,Mesão Frio
+74,Norte,Moimenta da Beira
+75,Norte,Murça
+76,Norte,Penedono
+77,Norte,Peso da Régua
+78,Norte,Sabrosa
+79,Norte,Santa Marta de Penaguião
+80,Norte,São João da Pesqueira
+81,Norte,Sernancelhe
+82,Norte,Tabuaço
+83,Norte,Tarouca
+84,Norte,Torre de Moncorvo
+85,Norte,Vila Nova de Foz Côa
+86,Norte,Vila Real
+88,Norte,Alfândega da Fé
+89,Norte,Bragança
+90,Norte,Macedo de Cavaleiros
+91,Norte,Miranda do Douro
+92,Norte,Mirandela
+93,Norte,Mogadouro
+94,Norte,Vila Flor
+95,Norte,Vimioso
+96,Norte,Vinhais
+99,Centro,Alcobaça
+100,Centro,Alenquer
+101,Centro,Arruda dos Vinhos
+102,Centro,Bombarral
+103,Centro,Cadaval
+104,Centro,Caldas da Rainha
+105,Centro,Lourinhã
+106,Centro,Nazaré
+107,Centro,Óbidos
+108,Centro,Peniche
+109,Centro,Sobral de Monte Agraço
+110,Centro,Torres Vedras
+112,Centro,Águeda
+113,Centro,Albergaria-a-Velha
+114,Centro,Anadia
+115,Centro,Aveiro
+116,Centro,Estarreja
+117,Centro,Ílhavo
+118,Centro,Murtosa
+119,Centro,Oliveira do Bairro
+120,Centro,Ovar
+121,Centro,Sever do Vouga
+122,Centro,Vagos
+124,Centro,Arganil
+125,Centro,Cantanhede
+126,Centro,Coimbra
+127,Centro,Condeixa-a-Nova
+128,Centro,Figueira da Foz
+129,Centro,Góis
+130,Centro,Lousã
+131,Centro,Mealhada
+132,Centro,Mira
+133,Centro,Miranda do Corvo
+134,Centro,Montemor-o-Velho
+135,Centro,Mortágua
+136,Centro,Oliveira do Hospital
+137,Centro,Pampilhosa da Serra
+138,Centro,Penacova
+139,Centro,Penela
+140,Centro,Soure
+141,Centro,Tábua
+142,Centro,Vila Nova de Poiares
+144,Centro,Alvaiázere
+145,Centro,Ansião
+146,Centro,Batalha
+147,Centro,Castanheira de Pêra
+148,Centro,Figueiró dos Vinhos
+149,Centro,Leiria
+150,Centro,Marinha Grande
+151,Centro,Pedrógão Grande
+152,Centro,Pombal
+153,Centro,Porto de Mós
+155,Centro,Aguiar da Beira
+156,Centro,Carregal do Sal
+157,Centro,Castro Daire
+158,Centro,Mangualde
+159,Centro,Nelas
+160,Centro,Oliveira de Frades
+161,Centro,Penalva do Castelo
+162,Centro,Santa Comba Dão
+163,Centro,São Pedro do Sul
+164,Centro,Sátão
+165,Centro,Tondela
+166,Centro,Vila Nova de Paiva
+167,Centro,Viseu
+168,Centro,Vouzela
+170,Centro,Castelo Branco
+171,Centro,Idanha-a-Nova
+172,Centro,Oleiros
+173,Centro,Penamacor
+174,Centro,Proença-a-Nova
+175,Centro,Vila Velha de Ródão
+177,Centro,Abrantes
+178,Centro,Alcanena
+179,Centro,Constância
+180,Centro,Entroncamento
+181,Centro,Ferreira do Zêzere
+182,Centro,Mação
+183,Centro,Ourém
+184,Centro,Sardoal
+185,Centro,Sertã
+186,Centro,Tomar
+187,Centro,Torres Novas
+188,Centro,Vila de Rei
+189,Centro,Vila Nova da Barquinha
+191,Centro,Almeida
+192,Centro,Belmonte
+193,Centro,Celorico da Beira
+194,Centro,Covilhã
+195,Centro,Figueira de Castelo Rodrigo
+196,Centro,Fornos de Algodres
+197,Centro,Fundão
+198,Centro,Gouveia
+199,Centro,Guarda
+200,Centro,Manteigas
+201,Centro,Mêda
+202,Centro,Pinhel
+203,Centro,Sabugal
+204,Centro,Seia
+205,Centro,Trancoso
+208,Área Metropolitana de Lisboa,Alcochete
+209,Área Metropolitana de Lisboa,Almada
+210,Área Metropolitana de Lisboa,Amadora
+211,Área Metropolitana de Lisboa,Barreiro
+212,Área Metropolitana de Lisboa,Cascais
+213,Área Metropolitana de Lisboa,Lisboa
+214,Área Metropolitana de Lisboa,Loures
+215,Área Metropolitana de Lisboa,Mafra
+216,Área Metropolitana de Lisboa,Moita
+217,Área Metropolitana de Lisboa,Montijo
+218,Área Metropolitana de Lisboa,Odivelas
+219,Área Metropolitana de Lisboa,Oeiras
+220,Área Metropolitana de Lisboa,Palmela
+221,Área Metropolitana de Lisboa,Seixal
+222,Área Metropolitana de Lisboa,Sesimbra
+223,Área Metropolitana de Lisboa,Setúbal
+224,Área Metropolitana de Lisboa,Sintra
+225,Área Metropolitana de Lisboa,Vila Franca de Xira
+228,Alentejo,Alcácer do Sal
+229,Alentejo,Grândola
+230,Alentejo,Odemira
+231,Alentejo,Santiago do Cacém
+232,Alentejo,Sines
+234,Alentejo,Aljustrel
+235,Alentejo,Almodôvar
+236,Alentejo,Alvito
+237,Alentejo,Barrancos
+238,Alentejo,Beja
+239,Alentejo,Castro Verde
+240,Alentejo,Cuba
+241,Alentejo,Ferreira do Alentejo
+242,Alentejo,Mértola
+243,Alentejo,Moura
+244,Alentejo,Ourique
+245,Alentejo,Serpa
+246,Alentejo,Vidigueira
+248,Alentejo,Almeirim
+249,Alentejo,Alpiarça
+250,Alentejo,Azambuja
+251,Alentejo,Benavente
+252,Alentejo,Cartaxo
+253,Alentejo,Chamusca
+254,Alentejo,Coruche
+255,Alentejo,Golegã
+256,Alentejo,Rio Maior
+257,Alentejo,Salvaterra de Magos
+258,Alentejo,Santarém
+260,Alentejo,Alter do Chão
+261,Alentejo,Arronches
+262,Alentejo,Avis
+263,Alentejo,Campo Maior
+264,Alentejo,Castelo de Vide
+265,Alentejo,Crato
+266,Alentejo,Elvas
+267,Alentejo,Fronteira
+268,Alentejo,Gavião
+269,Alentejo,Marvão
+270,Alentejo,Monforte
+271,Alentejo,Nisa
+272,Alentejo,Ponte de Sor
+273,Alentejo,Portalegre
+274,Alentejo,Sousel
+276,Alentejo,Alandroal
+277,Alentejo,Arraiolos
+278,Alentejo,Borba
+279,Alentejo,Estremoz
+280,Alentejo,Évora
+281,Alentejo,Montemor-o-Novo
+282,Alentejo,Mora
+283,Alentejo,Mourão
+284,Alentejo,Portel
+285,Alentejo,Redondo
+286,Alentejo,Reguengos de Monsaraz
+287,Alentejo,Vendas Novas
+288,Alentejo,Viana do Alentejo
+289,Alentejo,Vila Viçosa
+292,Algarve,Albufeira
+293,Algarve,Alcoutim
+294,Algarve,Aljezur
+295,Algarve,Castro Marim
+296,Algarve,Faro
+297,Algarve,Lagoa
+298,Algarve,Lagos
+299,Algarve,Loulé
+300,Algarve,Monchique
+301,Algarve,Olhão
+302,Algarve,Portimão
+303,Algarve,São Brás de Alportel
+304,Algarve,Silves
+305,Algarve,Tavira
+306,Algarve,Vila do Bispo
+307,Algarve,Vila Real de Santo António
+311,Região Autónoma dos Açores,Vila do Porto
+313,Região Autónoma dos Açores,Lagoa [R.A.A.]
+314,Região Autónoma dos Açores,Nordeste
+315,Região Autónoma dos Açores,Ponta Delgada
+316,Região Autónoma dos Açores,Povoação
+317,Região Autónoma dos Açores,Ribeira Grande
+318,Região Autónoma dos Açores,Vila Franca do Campo
+320,Região Autónoma dos Açores,Angra do Heroísmo
+321,Região Autónoma dos Açores,Vila da Praia da Vitória
+323,Região Autónoma dos Açores,Santa Cruz da Graciosa
+325,Região Autónoma dos Açores,Calheta [R.A.A.]
+326,Região Autónoma dos Açores,Velas
+328,Região Autónoma dos Açores,Lajes do Pico
+329,Região Autónoma dos Açores,Madalena
+330,Região Autónoma dos Açores,São Roque do Pico
+332,Região Autónoma dos Açores,Horta
+334,Região Autónoma dos Açores,Lajes das Flores
+335,Região Autónoma dos Açores,Santa Cruz das Flores
+337,Região Autónoma dos Açores,Corvo
+341,Região Autónoma da Madeira,Calheta [R.A.M.]
+342,Região Autónoma da Madeira,Câmara de Lobos
+343,Região Autónoma da Madeira,Funchal
+344,Região Autónoma da Madeira,Machico
+345,Região Autónoma da Madeira,Ponta do Sol
+346,Região Autónoma da Madeira,Porto Moniz
+347,Região Autónoma da Madeira,Ribeira Brava
+348,Região Autónoma da Madeira,Santa Cruz
+349,Região Autónoma da Madeira,Santana
+350,Região Autónoma da Madeira,São Vicente
+352,Região Autónoma da Madeira,Porto Santo

@@ -1,0 +1,340 @@
+;Cidades;Clima_Ranking
+169;Mertola;36
+186;Mora;36
+52;Beira Baixa;36
+54;Beja;36
+81;Castro Verde;36
+21;Almeirim;36
+94;Cuba;36
+97;Entroncamento;36
+106;Ferreira do Alentejo;36
+118;Golega;36
+183;Montemor-o-Novo;36
+40;Arraiolos;36
+297;Torres Novas;36
+315;Vila Nova da Barquinha;36
+310;Vidigueira;36
+276;Serpa;36
+7;Alcanena;36
+293;Terras de Tras-os-Montes;36
+307;Vendas Novas;36
+89;Constancia;34
+69;Campo Maior;34
+73;Cartaxo;34
+229;Ponte de Sor;34
+90;Coruche;34
+261;Santarem;34
+96;Elvas;34
+271;Sardoal;34
+37;Arganil;34
+161;Marilia;34
+152;Macao;34
+0;Abrantes;34
+23;Alpiarca;34
+29;Amadora;33
+145;Leziria do Tejo;33
+267;Sao Paulo;33
+49;Barrancos;33
+102;Evora;32
+245;Reguengos de Monsaraz;32
+294;Tomar;32
+241;Redondo;32
+58;Borba;32
+101;Estremoz;32
+107;Ferreira do Zezere;32
+3;Alandroal;32
+129;Ilha das Flores;32
+277;Serta;32
+231;Portel;32
+133;Ilha de Sao Miguel;32
+286;Sousel;32
+308;Viana do Alentejo;32
+172;Miranda do Corvo;31
+75;Castanheira de Pera;31
+291;Tavira;31
+10;Alcoutim;31
+134;Ilha do Corvo;31
+80;Castro Marim;31
+211;Pampilhosa da Serra;31
+214;Pedrogao Grande;31
+117;Gois;31
+215;Penacova;31
+220;Penela;31
+87;Coimbra;31
+88;Condeixa-a-Nova;31
+224;Pombal;31
+22;Almodovar;31
+243;Regiao de Coimbra;31
+147;Loule;31
+313;Vila Franca de Xira;30
+19;Almada;30
+253;Salvaterra de Magos;30
+230;Portalegre;30
+11;Alenquer;30
+42;Arruda dos Vinhos;30
+44;Avis;30
+45;Azambuja;30
+329;Vila de Rei;30
+53;Beiras e Serra da Estrela;29
+232;Portimao;29
+39;Arouca;29
+5;Albufeira;29
+281;Silves;29
+127;Ilha Terceira;28
+6;Alcacer do Sal;28
+285;Soure;28
+210;Palmela;28
+113;Fronteira;28
+131;Ilha de Santa Maria;28
+206;Ourem;28
+264;Sao Bras de Alportel;28
+177;Moita;28
+9;Alcochete;28
+110;Figueiro dos Vinhos;28
+18;Aljustrel;28
+290;Tarouca;28
+279;Setubal;28
+304;Valongo;28
+278;Sesimbra;28
+185;Montijo;28
+50;Barreiro;28
+27;Alvaiazere;28
+95;Douro;28
+98;Espinho;27
+1;Agueda;27
+76;Castelo Branco;27
+146;Lisboa;27
+148;Loures;27
+63;Cadaval;27
+32;Anadia;27
+325;Vila Velha de Rodao;27
+4;Albergaria-a-Velha;27
+197;Odivelas;27
+204;Oliveira do Bairro;27
+35;Area Metropolitana de Lisboa;27
+240;Proenca-a-Nova;27
+125;Idanha-a-Nova;27
+167;Medio Tejo;27
+128;Ilha da Madeira;26
+83;Celorico de Basto;26
+30;Amarante;26
+55;Belmonte;26
+312;Vila Flor;26
+201;Olhao;25
+70;Cantanhede;24
+165;Mealhada;24
+171;Mira;24
+140;Lagos;24
+198;Oeiras;24
+17;Aljezur;23
+116;Gaviao;23
+181;Monforte;23
+194;Nisa;23
+179;Monchique;23
+188;Moura;23
+78;Castelo de Vide;23
+196;Odemira;23
+24;Alter do Chao;23
+207;Ourique;23
+93;Crato;23
+46;Baiao;23
+41;Arronches;23
+149;Lourinha;22
+104;Faro;22
+218;Penamacor;22
+298;Torres Vedras;22
+274;Seixal;22
+154;Machico;22
+15;Algarve;22
+92;Covilha;22
+284;Sobral de Monte Agraco;22
+115;Fundao;22
+283;Sintra;22
+111;Fornos de Algodres;21
+2;Aguiar da Beira;21
+84;Chamusca;21
+60;Braga;21
+270;Sao Vicente;21
+182;Montalegre;21
+268;Sao Pedro do Sul;21
+72;Carregal do Sal;21
+59;Boticas;21
+237;Povoa de Lanhoso;21
+193;Nelas;21
+174;Mirandela;21
+85;Chaves;21
+56;Benavente;21
+258;Santa Maria da Feira;21
+79;Castro Daire;21
+205;Oliveira do Hospital;21
+217;Penalva do Castelo;21
+121;Grandola;21
+331;Vila do Conde;21
+305;Valpacos;21
+335;Viseu;21
+175;Mogadouro;21
+262;Santiago do Cacem;21
+272;Satao;21
+273;Seia;21
+158;Mangualde;21
+324;Vila Real de Santo Antonio;21
+275;Sernancelhe;21
+320;Vila Nova de Paiva;21
+282;Sines;21
+159;Manteigas;21
+120;Gouveia;20
+280;Sever do Vouga;20
+150;Lousa;20
+123;Guimaraes;20
+302;Vale de Cambra;20
+337;Vizela;20
+100;Estarreja;20
+156;Mafra;20
+126;Ilha Graciosa;20
+202;Oliveira de Azemeis;20
+235;Porto Santo;20
+114;Funchal;20
+289;Tamega e Sousa;20
+25;Alto Alentejo;20
+163;Marvao;20
+330;Vila do Bispo;19
+47;Baixo Alentejo;19
+13;Alentejo Litoral;19
+314;Vila Franca do Campo;19
+248;Ribeira Grande;19
+195;Nordeste;19
+51;Batalha;19
+225;Ponta Delgada;19
+244;Regiao de Leiria;19
+119;Gondomar;19
+151;Lousada;19
+170;Mesao Frio;19
+141;Lajes das Flores;19
+144;Leiria;19
+216;Penafiel;19
+263;Santo Tirso;19
+265;Sao Joao da Madeira;19
+91;Corvo;19
+162;Marinha Grande;19
+317;Vila Nova de Famalicao;19
+328;Vila da Praia da Vitoria;19
+257;Santa Cruz das Flores;19
+239;Povoacao;19
+124;Horta;19
+208;Ovar;19
+209;Pacos de Ferreira;19
+12;Alentejo Central;19
+316;Vila Nova de Cerveira;18
+246;Resende;18
+327;Vila Vicosa;18
+250;Rio Maior;18
+306;Velas;18
+242;Regiao de Aveiro;18
+333;Vimioso;18
+269;Sao Roque do Pico;18
+299;Trancoso;18
+292;Terras de Bouro;18
+301;Vagos;18
+256;Santa Cruz da Graciosa;18
+31;Amares;18
+74;Cascais;18
+213;Paredes de Coura;18
+137;Ilhavo;18
+138;Lagoa;18
+139;Lagoa [R.A.A.];18
+142;Lajes do Pico;18
+132;Ilha de Sao Jorge;18
+160;Marco de Canaveses;18
+14;Alfandega da Fe;18
+57;Bombarral;18
+173;Miranda do Douro;18
+43;Aveiro;18
+112;Freixo de Espada a Cinta;18
+64;Caldas da Rainha;18
+199;Oeste;18
+191;Murtosa;18
+136;Ilha do Pico;18
+34;Arcos de Valdevez;18
+86;Cinfaes;18
+221;Peniche;18
+228;Ponte de Lima;18
+227;Ponte da Barca;18
+33;Angra do Heroismo;18
+77;Castelo de Paiva;18
+26;Alto Tamega;18
+184;Montemor-o-Velho;17
+108;Figueira da Foz;17
+200;Oleiros;16
+99;Esposende;16
+236;Porto de Mos;16
+334;Vinhais;16
+255;Santa Cruz;16
+192;Nazare;16
+153;Macedo de Cavaleiros;16
+61;Braganca;16
+8;Alcobaca;16
+212;Paredes;16
+48;Barcelos;16
+130;Ilha de Porto Santo;15
+135;Ilha do Faial;15
+67;Camara de Lobos;15
+65;Calheta [R.A.A.];15
+322;Vila Pouca de Aguiar;15
+66;Calheta [R.A.M.];15
+321;Vila Nova de Poiares;15
+296;Torre de Moncorvo;15
+303;Valenca;15
+319;Vila Nova de Gaia;15
+318;Vila Nova de Foz Coa;15
+16;Alijo;15
+288;Tabuaco;15
+323;Vila Real;15
+143;Lamego;15
+234;Porto Moniz;15
+233;Porto;15
+226;Ponta do Sol;15
+222;Peso da Regua;15
+247;Ribeira Brava;15
+249;Ribeira de Pena;15
+219;Penedono;15
+36;Area Metropolitana do Porto;15
+259;Santa Marta de Penaguiao;15
+260;Santana;15
+190;Murca;15
+38;Armamar;15
+266;Sao Joao da Pesqueira;15
+176;Moimenta da Beira;15
+71;Carrazeda de Ansiaes;15
+155;Madalena;15
+326;Vila Verde;15
+332;Vila do Porto;14
+28;Alvito;14
+62;Cabeceiras de Basto;14
+238;Povoa de Varzim;14
+311;Vieira do Minho;14
+122;Guarda;14
+223;Pinhel;14
+252;Sabugal;14
+189;Mourao;14
+180;Mondim de Basto;14
+166;Meda;14
+157;Maia;14
+164;Matosinhos;14
+82;Celorico da Beira;14
+300;Trofa;14
+105;Felgueiras;14
+103;Fafe;14
+109;Figueira de Castelo Rodrigo;14
+20;Almeida;14
+68;Caminha;13
+309;Viana do Castelo;13
+178;Moncao;13
+295;Tondela;12
+336;Viseu Dao Lafoes;12
+251;Sabrosa;12
+187;Mortagua;12
+254;Santa Comba Dao;12
+203;Oliveira de Frades;12
+168;Melgaco;12
+287;Tabua;12
+338;Vouzela;12
