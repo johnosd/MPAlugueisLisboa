@@ -1,10 +1,10 @@
-#!/usr/bin/env python
+# !/usr/bin/env python
 # coding: utf-8
 
-#!pip install googlemaps
-#!pip install geopy
-#!pip install --upgrade google-auth-oauthlib
-#!pip install simplejson
+# !pip install googlemaps
+# !pip install geopy
+# !pip install --upgrade google-auth-oauthlib
+# !pip install simplejson
 
 
 import googlemaps
@@ -58,6 +58,11 @@ class geo_py:
                         f"There is something wrong with this location {row['Cidades']}"
                     )
                     print(f"The following error occurred: {error}")
+
+    def get_municipio(self, latitude, longitude):
+        geolocator = Nominatim(user_agent="MyApp")
+        location = geolocator.reverse((latitude, longitude), exactly_one=True)
+        return location.raw
 
 
 class google_maps:
