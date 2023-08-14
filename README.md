@@ -2,7 +2,6 @@
 
 ### O objetivo do trabalho é predizer o valor do aluguel de acordo com a região, quantidade de quartos e metros quadrados.
 
-
 ### A predição será realizada utilizando uma base extraída do site Idealista.com, modelos estatísticos e algoritmos de Inteligência Artificial, que selecionarão as características mais relevantes que explicam o evento em questão.
 
 ### Desta formar será possível identificar o melhor as regiões com valores ideais de locação, bem como saber se o valor está na media praticada na região.
