@@ -2,3 +2,4 @@ wwo-hist
 
 
 unidecode
+beautifulsoup4
