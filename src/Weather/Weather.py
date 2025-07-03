@@ -4,7 +4,7 @@ import unidecode
 import time
 import csv
 
-api_key = "30361d43ad5f42d6a19173215230305"
+api_key = "5ccf4c0bfb8849ddaf8204104250207"
 
 
 class weather_py:
@@ -26,7 +26,7 @@ class weather_py:
         return lsttime
 
     # EXECUTA API DE CLIMA
-    def set_filelocation(base_dir="..\\..\\Bases\\ClimaPortugal"):
+    def set_filelocation(base_dir="..\\..\\Bases\\Clima\\worldWeatherApi\\"):
         os.chdir(base_dir)
         os.getcwd()
 

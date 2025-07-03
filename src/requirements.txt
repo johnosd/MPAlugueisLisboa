@@ -1,5 +1,11 @@
+# Clima
 wwo-hist
-
-
+retrieve_hist_data
 unidecode
+
 beautifulsoup4
+openmeteo-requests
+requests-cache 
+retry-requests 
+numpy 
+pandas
