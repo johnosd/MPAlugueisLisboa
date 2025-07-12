@@ -1,34 +1,37 @@
 {
-  "terminal.integrated.shell.windowns": "G:\\Program Files\\Git\\git-bash.exe",
-  "files.tremTrainlingWhitespace": true,
-  "files.trimFinalNewlines": true,
-  "editor.rulers":[80],
-  "editor.formatOnSave": true,
-  "python.formatting.provider": "black",
-  "python.formating.blackArgs": [
-      "--line-lenght-80"
-  ],
-  "python.sortImports.args":[
-      "--profile", "black"
-  ],
-  "python.linting.lintOnSave": true,
-  "python.linting.enabled": true,
-  "python.linting.flake8Enabled": true,
-  "python.linting.flake8Args":[
-      "--max-line-lenght=120",
-      "--ignore=E305,W503",
-  ],
-  "python.linting.banditEnabled": true,
-  "python.linting.banditArgs": [
-      "-r",
-  ],
-  "gitlens.hovers.currentLine.over": "line",
-  "gitlens.codeLens.enabled": false,
-  "git.confirmSync": false,
-  "[json]":{
-      "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[python]": {
-      "editor.formatOnType": true
-  }
+    "terminal.integrated.shell.windowns": "G:\\Program Files\\Git\\git-bash.exe",
+    "files.tremTrainlingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "editor.rulers": [
+        80
+    ],
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
+    "python.formating.blackArgs": [
+        "--line-lenght-80"
+    ],
+    "python.sortImports.args": [
+        "--profile",
+        "black"
+    ],
+    "python.linting.lintOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-lenght=120",
+        "--ignore=E305,W503",
+    ],
+    "python.linting.banditEnabled": true,
+    "python.linting.banditArgs": [
+        "-r",
+    ],
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.codeLens.enabled": false,
+    "git.confirmSync": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    }
 }
