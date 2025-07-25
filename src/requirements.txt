@@ -9,3 +9,5 @@ requests-cache
 retry-requests 
 numpy 
 pandas
+geopandas
+plotly
