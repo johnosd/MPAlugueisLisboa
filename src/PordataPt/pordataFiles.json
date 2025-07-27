@@ -90,6 +90,12 @@
         "pasta_destino": "..\\..\\Bases\\PorData\\economia"
     },
     {
+        "categoria": "Economia",
+        "nome": "Municipios_Proporcao_de_poder_de_compra.xlsx",
+        "url": "https://www.pordata.pt/sites/default/files/2024-06/Municipios_Proporcao_de_poder_de_compra.xlsx",
+        "pasta_destino": "..\\..\\Bases\\PorData\\economia"
+    },
+    {
         "categoria": "Cultura",
         "nome": "623-recintos-de-cinema.csv",
         "url": "https://ffmspstdlspub01.blob.core.windows.net/data/Modelo_20/623.csv",
