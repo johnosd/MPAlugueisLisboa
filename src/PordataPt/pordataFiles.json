@@ -13,8 +13,8 @@
     },
     {
         "categoria": "Seguranca",
-        "nome": "INE_PT-Taxa-de-criminalidade.csv",
-        "url": "https://www.ine.pt/clientFiles/gpepnrZtRqLZFTy7bwLI8jgv1t3ygn49aqZf_vUO_45802.csv",
+        "nome": "INE_PT-Taxa-de-criminalidade.xls",
+        "url": "https://www.ine.pt/clientFiles/jrBspEsUKmp030h-R_YbevZVMvuV9MaKpaoBma3x_51635.xls",
         "pasta_destino": "..\\..\\Bases\\InePt\\seguranca"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
         "categoria": "Moradia",
-        "nome": "INE_PT-Valor-mediano-das-rendas.csv",
-        "url": "https://www.ine.pt/clientFiles/gpepnrZtRqLZFTy7bwLI8jgv1t3ygn49aqZf_vUO_25025.csv",
+        "nome": "INE_PT-Valor-mediano-das-rendas.xls",
+        "url": "https://www.ine.pt/clientFiles/jrBspEsUKmp030h-R_YbevZVMvuV9MaKpaoBma3x_94113.xls",
         "pasta_destino": "..\\..\\Bases\\InePt\\moradia"
     },
     {
