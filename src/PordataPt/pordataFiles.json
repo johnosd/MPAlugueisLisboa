@@ -12,6 +12,12 @@
         "pasta_destino": "..\\..\\Bases\\PorData\\seguranca"
     },
     {
+        "categoria": "Seguranca",
+        "nome": "INE_PT-Taxa-de-criminalidade.csv",
+        "url": "https://www.ine.pt/clientFiles/gpepnrZtRqLZFTy7bwLI8jgv1t3ygn49aqZf_vUO_45802.csv",
+        "pasta_destino": "..\\..\\Bases\\InePt\\seguranca"
+    },
+    {
         "categoria": "Saude",
         "nome": "464-farmacias.csv",
         "url": "https://ffmspstdlspub01.blob.core.windows.net/data/Modelo_20/464.csv",
@@ -118,6 +124,12 @@
         "nome": "980-fogos-concluidos-em-construcoes-novas-para-habitacao.csv",
         "url": "https://ffmspstdlspub01.blob.core.windows.net/data/Modelo_20/980.csv",
         "pasta_destino": "..\\..\\Bases\\PorData\\moradia"
+    },
+    {
+        "categoria": "Moradia",
+        "nome": "INE_PT-Valor-mediano-das-rendas.csv",
+        "url": "https://www.ine.pt/clientFiles/gpepnrZtRqLZFTy7bwLI8jgv1t3ygn49aqZf_vUO_25025.csv",
+        "pasta_destino": "..\\..\\Bases\\InePt\\moradia"
     },
     {
         "categoria": "Salarios",
